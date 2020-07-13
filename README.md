@@ -28,8 +28,8 @@ fun main() {
             "ports and adapters",
             "event-driven"
         ),
-        tools = setOf("git", "docker", "circleci", "kafka", "intellij", "gRPC", "others"),
-        infrastructure = AWS(services = setOf("ec2", "ecs", "rds", "cloudwatch", "s3", "sqs", "sns", "cognito", "others"))
+        tools = setOf("git", "docker", "circleci", "kafka", "intellij", "gRPC"),
+        infrastructure = AWS(services = setOf("ec2", "ecs", "rds", "cloudwatch", "s3", "sqs", "sns", "cognito"))
     )
 
     mario.start()
