@@ -1,10 +1,10 @@
 <h2> It's me, Mário! <img src="https://media.giphy.com/media/LRaKL9P5ZEN8sSBaKE/giphy.gif" width="50"></h2>
 
 <a href="https://www.linkedin.com/in/marioalvial/">
-  <img align="left" alt="Mário's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mário's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@msealvial/latest">
-  <img align="left" alt="Mário's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+  <img align="left" alt="Mário's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <br>
