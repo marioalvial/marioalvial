@@ -13,7 +13,7 @@
 ```kotlin
 fun main() {
     val mario = Mario(
-        pronous = setOf("he", "him"),
+        pronouns = setOf("he", "him"),
         goal = "impact people's lives through software",
         love = setOf("event-driven architecture", "DDD", "clean code"),
         programmingLanguages = setOf(
