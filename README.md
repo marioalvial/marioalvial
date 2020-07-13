@@ -11,10 +11,6 @@
 <br>
 
 ```kotlin
-enum class Level {
-    BASIC, PROFICIENT, ADVANCED
-}
-
 fun main() {
     val mario = Mario(
         pronous = setOf("he", "him"),
