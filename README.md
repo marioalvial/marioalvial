@@ -7,6 +7,9 @@
   <img align="left" alt="Mário's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 
+<br>
+<br>
+
 ```kotlin
 fun main() {
     val mario = Mario(
