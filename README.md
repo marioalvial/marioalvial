@@ -11,9 +11,13 @@
 <br>
 
 ```kotlin
+enum class Level {
+    BASIC, PROFICIENT, ADVANCED
+}
+
 fun main() {
     val mario = Mario(
-        pronouns = setOf("he", "him"),
+        pronous = setOf("he", "him"),
         goal = "impact people's lives through software",
         love = setOf("event-driven architecture", "DDD", "clean code"),
         programmingLanguages = setOf(
@@ -28,8 +32,8 @@ fun main() {
             "ports and adapters",
             "event-driven"
         ),
-        tools = setOf("git", "docker", "circleci", "kafka", "intellij", "gRPC"),
-        infrastructure = AWS(services = setOf("ec2", "ecs", "rds", "cloudwatch", "s3", "sqs", "sns", "cognito"))
+        tools = setOf("git", "docker", "circleci", "kafka", "intellij", "gRPC", "others"),
+        infrastructure = AWS(services = setOf("ec2", "ecs", "rds", "cloudwatch", "s3", "sqs", "sns", "cognito", "others"))
     )
 
     mario.start()
