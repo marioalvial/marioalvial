@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/marioalvial/">
   <img align="left" alt="Mário's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://medium.com/@msealvial/latest">
+<a href="https://marioalvial.medium.com/">
   <img align="left" alt="Mário's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
